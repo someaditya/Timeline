@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Netchatreceiver</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="playerview_text">This is a YouTubePlayerView!</string>
+    
+</resources>

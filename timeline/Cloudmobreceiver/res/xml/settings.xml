@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+  
+     
+  <EditTextPreference android:key="First No"
+  android:summary="the first no to send message"
+  android:dialogTitle="Net Settings"
+  android:dialogMessage="Enter First No"
+  android:title="First No"/>
+   <EditTextPreference android:key="Second No"
+  android:summary="Enter Second No"
+  android:dialogTitle="iProb Settings"
+  android:dialogMessage="Enter Second No"
+  android:title="Second No"/>    
+       
+          
+  <EditTextPreference android:key="Police No"    
+  android:summary="Enter Police No"   
+  android:dialogTitle="Netchat Settings"   
+  android:dialogMessage="Enter Police No"
+  android:title="Police No"/>
+            
+  
+</PreferenceScreen>
